@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Trilha Java Basico/java-anatomia-classes"
+		},
+		{
+			"name": "trilha",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"tipos-variaveis/src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
